@@ -1,12 +1,12 @@
-# Building DevsDo Code Bot: A Revolutionary Free AI Assistant for Developers
+# Building DevsDoCode Bot: A Revolutionary Free AI Assistant for Developers
 
 ## Introduction
 
-In the ever-evolving landscape of artificial intelligence and developer tools, access to premium AI capabilities often comes with a significant price tag. Today, I'm excited to share the journey of creating the DevsDo Code Bot, a Telegram-based AI assistant that's reshaping how developers interact with advanced AI models.
+In the ever-evolving landscape of artificial intelligence and developer tools, access to premium AI capabilities often comes with a significant price tag. Today, I'm excited to share the journey of creating the DevsDoCode Bot, a Telegram-based AI assistant that's reshaping how developers interact with advanced AI models.
 
 ## 🌟 Project Overview
 
-DevsDo Code Bot stands at the intersection of accessibility and innovation, offering developers free access to advanced AI capabilities while maintaining a sustainable ecosystem. This project emerged from a vision to democratize AI access and build a vibrant developer community.
+DevsDoCode Bot stands at the intersection of accessibility and innovation, offering developers free access to advanced AI capabilities while maintaining a sustainable ecosystem. This project emerged from a vision to democratize AI access and build a vibrant developer community.
 
 ### 🎯 Core Objectives
 1. Provide accessible AI tools for developers
@@ -157,7 +157,7 @@ The bot utilizes a robust SQLite-based system with three primary components:
 ## 🌟 Getting Started
 
 ### Join Our Community
-- Telegram: [Devs Do Code 🌐](https://t.me/devsdocode)
+- Telegram: [Devs Do Code 🌐](https://t.me/code)
 - YouTube: [@DevsDoCode](https://www.youtube.com/@DevsDoCode)
 - Discord: [Join Server](https://discord.gg/4gGcqsWWde)
 - Instagram: [@sree.shades_](https://www.instagram.com/sree.shades_)
@@ -242,7 +242,7 @@ We welcome contributions from the community! Here's how you can help:
 
 ## 🎉 Conclusion
 
-DevsDo Code Bot represents a significant step forward in democratizing access to advanced AI capabilities. By combining powerful features with a community-focused approach, we're creating more than just a tool – we're building a platform for developer growth and collaboration.
+DevsDoCode Bot represents a significant step forward in democratizing access to advanced AI capabilities. By combining powerful features with a community-focused approach, we're creating more than just a tool – we're building a platform for developer growth and collaboration.
 
 ### Join Us
 Be part of this exciting journey! Join our community and help shape the future of AI-assisted development.
@@ -252,6 +252,6 @@ Follow our social media channels for updates, tips, and community highlights.
 
 ---
 
-The DevsDo Code Bot is more than just another AI assistant – it's a testament to what's possible when we combine technology with community. Join us in this journey to make advanced AI accessible to every developer!
+The DevsDoCode Bot is more than just another AI assistant – it's a testament to what's possible when we combine technology with community. Join us in this journey to make advanced AI accessible to every developer!
 
 [Get Started Now](https://t.me/ddc_support_bot) 🚀
